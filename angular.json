@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "AngularMoneyChange"
+  "defaultProject": "AngularMoneyChange",
+  "cli": {
+    "analytics": "d3be836e-34a2-4642-b725-555cfa77a234"
+  }
 }
